@@ -1,0 +1,36 @@
+<!DOCTYPE>
+<head>
+z<section>
+<body>
+<style>
+<a>- link provide
+<p>
+<html>
+<h1>....<h6>
+<img>
+<title>
+<strong>
+<div>
+<table>
+<br>-line break
+<sup>- superscript
+<sub>- subscript
+<ul> -unorder list
+<ol>- ordered list
+<iframe>- HTML element that loads another HTML page within the document.
+<form>
+<B>-bold
+<I>- italic
+<U>-underlined
+<footer>
+<caption>-defines a table caption. 
+<button>
+<kbd> tag is used to define keyboard input.
+<label>-<label for="element_id">
+Attribute Values: It contains the value i.e element_id which specify the id of the element that the label is bound to. 
+<video>
+<abbr>
+<address> 
+<font>
+<select>
+<blockquote>
